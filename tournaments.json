@@ -8,10 +8,11 @@
 		"entryFeeCoins": 0,
 		"levelCap": null,
 		"maxWeeks": 12,
+		"maxRegistrationWeek": null,
 		"partySize": 4,
 		"eggRollSpec": {
 			"count": 4,
-			"level": 2,
+			"level": 1,
 			"distinctMonotypes": true
 		},
 		"status": "open",
