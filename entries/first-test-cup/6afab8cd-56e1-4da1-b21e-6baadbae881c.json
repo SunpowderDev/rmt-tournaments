@@ -1,0 +1,602 @@
+{
+	"formatVersion": 1,
+	"tournamentId": "first-test-cup",
+	"playerId": "6afab8cd-56e1-4da1-b21e-6baadbae881c",
+	"playerName": "Jack",
+	"trainerName": "Jack",
+	"submittedAtIso": "2026-07-15T14:34:50.329Z",
+	"gymWeek": 19,
+	"registeredAtWeek": 19,
+	"monsters": [
+		{
+			"id": "am_65891152-d808-4a1f-a07a-d77920d02450",
+			"name": "Kibrill",
+			"deck": [
+				{
+					"id": "teleport_psychic",
+					"level": 1
+				},
+				{
+					"id": "ignite",
+					"level": 1
+				},
+				{
+					"id": "firespin",
+					"level": 1
+				},
+				{
+					"id": "fireball",
+					"level": 1
+				},
+				{
+					"id": "blaze_in",
+					"level": 1
+				},
+				{
+					"id": "leap_back",
+					"level": 1
+				}
+			],
+			"moveLibrary": [
+				{
+					"id": "fireball",
+					"level": 1
+				},
+				{
+					"id": "firespin",
+					"level": 1
+				},
+				{
+					"id": "flame_of_desire",
+					"level": 1
+				},
+				{
+					"id": "blaze_in",
+					"level": 1
+				},
+				{
+					"id": "ignite",
+					"level": 1
+				},
+				{
+					"id": "leap_back",
+					"level": 1
+				},
+				{
+					"id": "cyborgs_core",
+					"level": 1
+				},
+				{
+					"id": "teleport_psychic",
+					"level": 1
+				}
+			],
+			"maxDeckSlots": 8,
+			"currentHp": 78,
+			"maxHp": 78,
+			"manaRegenBonus": 0,
+			"crawlSpeedBonus": 0,
+			"yardId": "yard_0af408c7-af20-4ba4-88e3-df69a058e956",
+			"lastPetWeek": 17,
+			"activity": null,
+			"weeklyFoodBuffs": [],
+			"weeklyFeedCount": 0,
+			"pendingEvRespec": null,
+			"createdAt": 1783690616697,
+			"speciesId": "tomio",
+			"sex": "female",
+			"lastBredWeek": 9,
+			"breedPartnerIds": [
+				"am_7c6df72c-01a1-442e-a128-095f03e6bc7f"
+			],
+			"feedTagStreaks": {
+				"protein": 0,
+				"herbal": 1,
+				"starch": 0
+			},
+			"level": 10,
+			"xp": 858,
+			"gvs": {
+				"wgt": 15,
+				"str": 5,
+				"spd": 19,
+				"int": 8,
+				"mry": 28,
+				"frt": 30,
+				"grc": 19,
+				"nst": 0
+			},
+			"evs": {
+				"wgt": 4,
+				"str": 4,
+				"spd": 14,
+				"int": 5,
+				"mry": 16,
+				"frt": 11,
+				"grc": 10,
+				"nst": 0
+			},
+			"types": [
+				"FIRE"
+			],
+			"personality": {
+				"axes": {
+					"discipline": 0.074,
+					"temper": 0.634,
+					"empathy": -0.287,
+					"ego": -0.478,
+					"playfulness": 0.621
+				},
+				"trainedOffsets": {
+					"discipline": 0,
+					"temper": 0,
+					"empathy": 0,
+					"ego": 0,
+					"playfulness": 0
+				},
+				"seed": 3110370809,
+				"speciesId": "tomio"
+			},
+			"happiness": 87,
+			"fatigue": 13,
+			"bond": 96,
+			"quirks": [
+				{
+					"id": "first_friend",
+					"acquiredAt": 1782206150083
+				},
+				{
+					"id": "sensitive_stomach",
+					"weeks": 11,
+					"acquiredAt": 1783697244522
+				},
+				{
+					"id": "rabid",
+					"locked": true,
+					"lockSource": "neglect",
+					"weeks": 10,
+					"acquiredAt": 1783697881041
+				}
+			]
+		},
+		{
+			"id": "am_7c6df72c-01a1-442e-a128-095f03e6bc7f",
+			"name": "Cometa",
+			"deck": [
+				{
+					"id": "thunderbolt",
+					"level": 1
+				},
+				{
+					"id": "zip_zap",
+					"level": 1
+				},
+				{
+					"id": "cocoon",
+					"level": 1
+				},
+				{
+					"id": "razor_leaf",
+					"level": 1
+				}
+			],
+			"moveLibrary": [
+				{
+					"id": "thunderbolt",
+					"level": 1
+				},
+				{
+					"id": "cocoon",
+					"level": 1
+				},
+				{
+					"id": "razor_leaf",
+					"level": 1
+				},
+				{
+					"id": "zip_zap",
+					"level": 1
+				},
+				{
+					"id": "flamethrower",
+					"level": 1
+				},
+				{
+					"id": "fairy_protect",
+					"level": 1
+				}
+			],
+			"maxDeckSlots": 8,
+			"currentHp": 119,
+			"maxHp": 119,
+			"manaRegenBonus": 0,
+			"crawlSpeedBonus": 0,
+			"yardId": "yard_ee28a464-b953-4c2b-a238-05261e8209bb",
+			"lastPetWeek": 17,
+			"activity": null,
+			"weeklyFoodBuffs": [],
+			"weeklyFeedCount": 0,
+			"pendingEvRespec": null,
+			"createdAt": 1783695257991,
+			"speciesId": "grull",
+			"sex": "male",
+			"lastBredWeek": 15,
+			"breedPartnerIds": [
+				"am_65891152-d808-4a1f-a07a-d77920d02450",
+				"am_cf7af524-4e35-4f89-a3c9-e6bb3acd4e8b"
+			],
+			"feedTagStreaks": {
+				"protein": 0,
+				"herbal": 3,
+				"starch": 0
+			},
+			"level": 8,
+			"xp": 465,
+			"gvs": {
+				"wgt": 5,
+				"str": 20,
+				"spd": 41,
+				"int": 24,
+				"mry": 34,
+				"frt": 47,
+				"grc": 37,
+				"nst": 0
+			},
+			"evs": {
+				"wgt": 3,
+				"str": 8,
+				"spd": 9,
+				"int": 3,
+				"mry": 10,
+				"frt": 4,
+				"grc": 4,
+				"nst": 0
+			},
+			"types": [
+				"GRASS",
+				"ELECTRIC"
+			],
+			"personality": {
+				"axes": {
+					"discipline": -0.817,
+					"temper": 0.773,
+					"empathy": 0.697,
+					"ego": 0.729,
+					"playfulness": 0.044
+				},
+				"trainedOffsets": {
+					"discipline": 0,
+					"temper": 0,
+					"empathy": 0,
+					"ego": 0,
+					"playfulness": 0
+				},
+				"seed": 2079822199,
+				"speciesId": "grull"
+			},
+			"happiness": 87,
+			"fatigue": 0,
+			"bond": 86,
+			"quirks": [
+				{
+					"id": "steady_presence",
+					"acquiredAt": 1783695257991
+				},
+				{
+					"id": "frail",
+					"locked": true,
+					"lockSource": "neglect",
+					"weeks": 11,
+					"acquiredAt": 1783695257991
+				},
+				{
+					"id": "eagle_eyed",
+					"acquiredAt": 1783695257991
+				},
+				{
+					"id": "sore_loser",
+					"locked": true,
+					"lockSource": "neglect",
+					"weeks": 5,
+					"acquiredAt": 1783695257991
+				},
+				{
+					"id": "wary",
+					"weeks": 11,
+					"acquiredAt": 1783697244522
+				},
+				{
+					"id": "bloodthirsty",
+					"acquiredAt": 1783698909510
+				}
+			]
+		},
+		{
+			"id": "am_f39ecd73-be18-4342-96bf-65c88238cf42",
+			"name": "Graveler",
+			"deck": [
+				{
+					"id": "stone_wall",
+					"level": 1
+				},
+				{
+					"id": "shifting_sands",
+					"level": 1
+				},
+				{
+					"id": "bout",
+					"level": 1
+				},
+				{
+					"id": "bone_kick",
+					"level": 1
+				},
+				{
+					"id": "headbutt",
+					"level": 1
+				}
+			],
+			"moveLibrary": [
+				{
+					"id": "shifting_sands",
+					"level": 1
+				},
+				{
+					"id": "volt_up",
+					"level": 1
+				},
+				{
+					"id": "stone_wall",
+					"level": 1
+				},
+				{
+					"id": "bone_kick",
+					"level": 1
+				},
+				{
+					"id": "bout",
+					"level": 1
+				},
+				{
+					"id": "headbutt",
+					"level": 1
+				},
+				{
+					"id": "cyclone",
+					"level": 1
+				}
+			],
+			"maxDeckSlots": 8,
+			"currentHp": 75,
+			"maxHp": 75,
+			"manaRegenBonus": 0,
+			"crawlSpeedBonus": 0,
+			"yardId": "yard_0af408c7-af20-4ba4-88e3-df69a058e956",
+			"lastPetWeek": 17,
+			"activity": null,
+			"weeklyFoodBuffs": [],
+			"weeklyFeedCount": 0,
+			"pendingEvRespec": null,
+			"createdAt": 1783694851939,
+			"speciesId": "bomdilo",
+			"sex": "female",
+			"feedTagStreaks": {
+				"protein": 0,
+				"herbal": 3,
+				"starch": 0
+			},
+			"level": 7,
+			"xp": 368,
+			"gvs": {
+				"wgt": 25,
+				"str": 23,
+				"spd": 41,
+				"int": 43,
+				"mry": 4,
+				"frt": 13,
+				"grc": 43,
+				"nst": 0
+			},
+			"evs": {
+				"wgt": 9,
+				"str": 3,
+				"spd": 6,
+				"int": 3,
+				"mry": 1,
+				"frt": 0,
+				"grc": 0,
+				"nst": 0
+			},
+			"types": [
+				"BASIC",
+				"EARTH"
+			],
+			"personality": {
+				"axes": {
+					"discipline": 0.414,
+					"temper": -0.269,
+					"empathy": -0.148,
+					"ego": 0.646,
+					"playfulness": -0.527
+				},
+				"trainedOffsets": {
+					"discipline": 0,
+					"temper": 0,
+					"empathy": 0,
+					"ego": 0,
+					"playfulness": 0
+				},
+				"seed": 2393612999,
+				"speciesId": "bomdilo"
+			},
+			"happiness": 86,
+			"fatigue": 12,
+			"bond": 78,
+			"quirks": [
+				{
+					"id": "steady_presence",
+					"acquiredAt": 1783694851939
+				},
+				{
+					"id": "dull_instinct",
+					"locked": true,
+					"lockSource": "neglect",
+					"weeks": 10,
+					"acquiredAt": 1783694851939
+				},
+				{
+					"id": "unnerving",
+					"locked": true,
+					"lockSource": "neglect",
+					"weeks": 12,
+					"acquiredAt": 1783696240601
+				},
+				{
+					"id": "heavy_gut",
+					"weeks": 10,
+					"acquiredAt": 1783697881041
+				},
+				{
+					"id": "sensitive_stomach",
+					"locked": true,
+					"lockSource": "neglect",
+					"weeks": 5,
+					"acquiredAt": 1783698685465
+				},
+				{
+					"id": "submissive",
+					"locked": true,
+					"lockSource": "neglect",
+					"replacedId": "sickly",
+					"weeks": 6,
+					"acquiredAt": 1783699121078
+				}
+			]
+		},
+		{
+			"id": "am_cf7af524-4e35-4f89-a3c9-e6bb3acd4e8b",
+			"name": "Mara",
+			"deck": [
+				{
+					"id": "chroma_stars",
+					"level": 1
+				},
+				{
+					"id": "cyclone",
+					"level": 1
+				},
+				{
+					"id": "falcon_punch",
+					"level": 1
+				}
+			],
+			"moveLibrary": [
+				{
+					"id": "chroma_stars",
+					"level": 1
+				},
+				{
+					"id": "falcon_punch",
+					"level": 1
+				},
+				{
+					"id": "cyclone",
+					"level": 1
+				}
+			],
+			"maxDeckSlots": 8,
+			"currentHp": 61,
+			"maxHp": 61,
+			"manaRegenBonus": 0,
+			"crawlSpeedBonus": 0,
+			"yardId": "yard_0af408c7-af20-4ba4-88e3-df69a058e956",
+			"lastPetWeek": 17,
+			"activity": null,
+			"weeklyFoodBuffs": [],
+			"weeklyFeedCount": 0,
+			"pendingEvRespec": null,
+			"createdAt": 1783694982049,
+			"speciesId": "bomdilo",
+			"sex": "female",
+			"lastBredWeek": 15,
+			"breedPartnerIds": [
+				"am_7c6df72c-01a1-442e-a128-095f03e6bc7f"
+			],
+			"feedTagStreaks": {
+				"protein": 1,
+				"herbal": 0,
+				"starch": 0
+			},
+			"level": 5,
+			"xp": 228,
+			"gvs": {
+				"wgt": 16,
+				"str": 19,
+				"spd": 11,
+				"int": 44,
+				"mry": 25,
+				"frt": 5,
+				"grc": 28,
+				"nst": 0
+			},
+			"evs": {
+				"wgt": 0,
+				"str": 1,
+				"spd": 0,
+				"int": 0,
+				"mry": 1,
+				"frt": 0,
+				"grc": 0,
+				"nst": 0
+			},
+			"types": [
+				"FAIRY"
+			],
+			"personality": {
+				"axes": {
+					"discipline": -0.361,
+					"temper": 0.236,
+					"empathy": 0.335,
+					"ego": 0.797,
+					"playfulness": 0.289
+				},
+				"trainedOffsets": {
+					"discipline": 0,
+					"temper": 0,
+					"empathy": 0,
+					"ego": 0,
+					"playfulness": 0
+				},
+				"seed": 3423083656,
+				"speciesId": "bomdilo"
+			},
+			"happiness": 87,
+			"fatigue": 52,
+			"bond": 66,
+			"quirks": [
+				{
+					"id": "faetouched"
+				},
+				{
+					"id": "hardy"
+				},
+				{
+					"id": "wet_blanket",
+					"locked": true,
+					"lockSource": "neglect",
+					"weeks": 6,
+					"acquiredAt": 1783696295547
+				},
+				{
+					"id": "sharp_instinct",
+					"acquiredAt": 1783699121081
+				},
+				{
+					"id": "leashed",
+					"weeks": 3,
+					"acquiredAt": 1783705075720
+				}
+			]
+		}
+	]
+}
