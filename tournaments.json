@@ -4,7 +4,7 @@
 		"name": "Egg Challenge #1",
 		"mpType": "EGG_CHALLENGE",
 		"deadlineUtc": "2026-07-24T16:00:00Z",
-		"engineVersion": "mp-1",
+		"engineVersion": "mp-2",
 		"entryFeeCoins": 0,
 		"levelCap": null,
 		"maxWeeks": 12,
