@@ -16,5 +16,19 @@
 		},
 		"status": "open",
 		"description": "Four hatchlings, twelve weeks. Raise them your way — every player gets their own rolled hatchlings, no two sharing a type."
+	},
+	{
+		"id": "first-test-cup",
+		"name": "First Test Cup",
+		"mpType": "TIER_TOURNAMENT",
+		"deadlineUtc": "2026-07-24T16:00:00Z",
+		"engineVersion": "mp-1",
+		"entryFeeCoins": 0,
+		"levelCap": 10,
+		"maxWeeks": null,
+		"partySize": 4,
+		"eggRollSpec": null,
+		"status": "open",
+		"description": "Beginner-tier showdown: submit any four monsters at level 10 or under before the deadline."
 	}
 ]
