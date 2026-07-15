@@ -3,7 +3,7 @@
 	"tournamentId": "first-test-cup",
 	"tournamentName": "First Test Cup",
 	"mpType": "TIER_TOURNAMENT",
-	"engineVersion": "mp-2",
+	"engineVersion": "mp-3",
 	"masterSeed": 3761370177,
 	"partySize": 4,
 	"entrants": [
@@ -1006,5 +1006,5 @@
 	],
 	"championPlayerId": "6afab8cd-56e1-4da1-b21e-6baadbae881c",
 	"rejected": [],
-	"generatedAtIso": "2026-07-15T16:21:49.122Z"
+	"generatedAtIso": "2026-07-15T16:36:06.953Z"
 }
