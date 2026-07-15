@@ -3,7 +3,7 @@
 	"tournamentId": "first-test-cup",
 	"tournamentName": "First Test Cup",
 	"mpType": "TIER_TOURNAMENT",
-	"engineVersion": "mp-1",
+	"engineVersion": "mp-2",
 	"masterSeed": 3761370177,
 	"partySize": 4,
 	"entrants": [
@@ -969,18 +969,20 @@
 				"games": [
 					{
 						"winner": "A",
-						"hpPctA": 0.5228426395939086,
+						"hpPctA": 0.7647058823529411,
 						"hpPctB": 0,
-						"durationS": 18.15,
+						"durationS": 37.43,
 						"benchSwaps": 0,
+						"koReplacements": 3,
 						"seed": 1668138343
 					},
 					{
 						"winner": "A",
-						"hpPctA": 0.14213197969543148,
+						"hpPctA": 0.45751633986928103,
 						"hpPctB": 0,
-						"durationS": 29.83,
+						"durationS": 42.02,
 						"benchSwaps": 0,
+						"koReplacements": 3,
 						"seed": 3702451031
 					}
 				],
@@ -1004,5 +1006,5 @@
 	],
 	"championPlayerId": "6afab8cd-56e1-4da1-b21e-6baadbae881c",
 	"rejected": [],
-	"generatedAtIso": "2026-07-15T15:45:30.666Z"
+	"generatedAtIso": "2026-07-15T16:21:49.122Z"
 }
