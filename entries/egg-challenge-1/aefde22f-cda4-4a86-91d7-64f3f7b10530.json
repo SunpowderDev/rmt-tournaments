@@ -1,0 +1,407 @@
+{
+	"formatVersion": 1,
+	"tournamentId": "egg-challenge-1",
+	"playerId": "aefde22f-cda4-4a86-91d7-64f3f7b10530",
+	"playerName": "Meb1",
+	"trainerName": "Meb1",
+	"submittedAtIso": "2026-07-16T09:18:02.728Z",
+	"gymWeek": 11,
+	"registeredAtWeek": 2,
+	"monsters": [
+		{
+			"id": "am_33086ae8-bb82-4729-ba12-e7ebe7cf5161",
+			"name": "Stray Monkela",
+			"deck": [
+				{
+					"id": "burrow",
+					"level": 1
+				}
+			],
+			"moveLibrary": [
+				{
+					"id": "burrow",
+					"level": 1
+				}
+			],
+			"maxDeckSlots": 8,
+			"currentHp": 39,
+			"maxHp": 39,
+			"manaRegenBonus": 0,
+			"crawlSpeedBonus": 0,
+			"yardId": "yard_7baa9375-eba9-4df1-a4a4-b9f7c75b4f0b",
+			"activity": null,
+			"weeklyFoodBuffs": [],
+			"weeklyFeedCount": 0,
+			"pendingEvRespec": null,
+			"createdAt": 1784127975939,
+			"speciesId": "monkela",
+			"sex": "male",
+			"lastBredWeek": 7,
+			"breedPartnerIds": [
+				"am_e8c8bfa4-63f6-4bc1-a3a6-ffaf58a7ae11"
+			],
+			"level": 1,
+			"xp": 6,
+			"gvs": {
+				"wgt": 24,
+				"str": 8,
+				"spd": 18,
+				"int": 0,
+				"mry": 31,
+				"frt": 45,
+				"grc": 47,
+				"nst": 0
+			},
+			"evs": {
+				"wgt": 0,
+				"str": 0,
+				"spd": 0,
+				"int": 0,
+				"mry": 2,
+				"frt": 1,
+				"grc": 0,
+				"nst": 0
+			},
+			"types": [
+				"ICESTEEL"
+			],
+			"personality": {
+				"axes": {
+					"discipline": -0.864,
+					"temper": -0.362,
+					"empathy": -0.643,
+					"ego": -0.333,
+					"playfulness": -0.727
+				},
+				"trainedOffsets": {
+					"discipline": 0,
+					"temper": 0,
+					"empathy": 0,
+					"ego": 0,
+					"playfulness": 0
+				},
+				"seed": 3650630255,
+				"speciesId": "monkela"
+			},
+			"happiness": 53,
+			"fatigue": 0,
+			"bond": 2,
+			"quirks": [
+				{
+					"id": "eager",
+					"acquiredAt": 1784127975940
+				},
+				{
+					"id": "bleary_eyed",
+					"weeks": 9,
+					"acquiredAt": 1784127975940
+				},
+				{
+					"id": "open_minded",
+					"acquiredAt": 1784127975940
+				}
+			]
+		},
+		{
+			"id": "am_f27e78ef-c8ce-482f-ac6a-56af058712fd",
+			"name": "Stray Tomio",
+			"deck": [
+				{
+					"id": "swarm",
+					"level": 1
+				}
+			],
+			"moveLibrary": [
+				{
+					"id": "swarm",
+					"level": 1
+				}
+			],
+			"maxDeckSlots": 8,
+			"currentHp": 48,
+			"maxHp": 48,
+			"manaRegenBonus": 0,
+			"crawlSpeedBonus": 0,
+			"yardId": "yard_7baa9375-eba9-4df1-a4a4-b9f7c75b4f0b",
+			"activity": null,
+			"weeklyFoodBuffs": [],
+			"weeklyFeedCount": 0,
+			"pendingEvRespec": null,
+			"createdAt": 1784127975940,
+			"speciesId": "tomio",
+			"sex": "female",
+			"level": 1,
+			"xp": 0,
+			"gvs": {
+				"wgt": 15,
+				"str": 14,
+				"spd": 15,
+				"int": 18,
+				"mry": 34,
+				"frt": 9,
+				"grc": 12,
+				"nst": 0
+			},
+			"evs": {
+				"wgt": 0,
+				"str": 0,
+				"spd": 0,
+				"int": 0,
+				"mry": 0,
+				"frt": 0,
+				"grc": 0,
+				"nst": 0
+			},
+			"types": [
+				"BASIC"
+			],
+			"personality": {
+				"axes": {
+					"discipline": 0.025,
+					"temper": -0.584,
+					"empathy": 0.267,
+					"ego": -0.77,
+					"playfulness": -0.385
+				},
+				"trainedOffsets": {
+					"discipline": 0,
+					"temper": 0,
+					"empathy": 0,
+					"ego": 0,
+					"playfulness": 0
+				},
+				"seed": 1745701117,
+				"speciesId": "tomio"
+			},
+			"happiness": 42,
+			"fatigue": 0,
+			"bond": 2,
+			"quirks": [
+				{
+					"id": "first_friend",
+					"acquiredAt": 1784127975940
+				},
+				{
+					"id": "submissive",
+					"locked": true,
+					"lockSource": "neglect",
+					"weeks": 4,
+					"acquiredAt": 1784127975940
+				},
+				{
+					"id": "neuroplastic",
+					"acquiredAt": 1784127975940
+				},
+				{
+					"id": "gourmand",
+					"acquiredAt": 1784127975940
+				},
+				{
+					"id": "self_effacing",
+					"locked": true,
+					"lockSource": "neglect",
+					"weeks": 4,
+					"acquiredAt": 1784127975940
+				},
+				{
+					"id": "cripple",
+					"weeks": 4,
+					"acquiredAt": 1784187629332
+				}
+			]
+		},
+		{
+			"id": "am_e8c8bfa4-63f6-4bc1-a3a6-ffaf58a7ae11",
+			"name": "Stray Rhymer",
+			"deck": [
+				{
+					"id": "sludge_bomb",
+					"level": 1
+				}
+			],
+			"moveLibrary": [
+				{
+					"id": "sludge_bomb",
+					"level": 1
+				}
+			],
+			"maxDeckSlots": 8,
+			"currentHp": 69,
+			"maxHp": 69,
+			"manaRegenBonus": 0,
+			"crawlSpeedBonus": 0,
+			"yardId": "yard_7baa9375-eba9-4df1-a4a4-b9f7c75b4f0b",
+			"activity": null,
+			"weeklyFoodBuffs": [],
+			"weeklyFeedCount": 0,
+			"pendingEvRespec": null,
+			"createdAt": 1784127975941,
+			"speciesId": "rhymer",
+			"sex": "female",
+			"lastBredWeek": 7,
+			"breedPartnerIds": [
+				"am_33086ae8-bb82-4729-ba12-e7ebe7cf5161"
+			],
+			"level": 1,
+			"xp": 4,
+			"gvs": {
+				"wgt": 42,
+				"str": 34,
+				"spd": 27,
+				"int": 24,
+				"mry": 14,
+				"frt": 26,
+				"grc": 12,
+				"nst": 0
+			},
+			"evs": {
+				"wgt": 0,
+				"str": 0,
+				"spd": 0,
+				"int": 0,
+				"mry": 0,
+				"frt": 0,
+				"grc": 0,
+				"nst": 0
+			},
+			"types": [
+				"WATER"
+			],
+			"personality": {
+				"axes": {
+					"discipline": -0.76,
+					"temper": -0.635,
+					"empathy": 0.443,
+					"ego": -0.681,
+					"playfulness": -0.741
+				},
+				"trainedOffsets": {
+					"discipline": 0,
+					"temper": 0,
+					"empathy": 0,
+					"ego": 0,
+					"playfulness": 0
+				},
+				"seed": 2308055031,
+				"speciesId": "rhymer"
+			},
+			"happiness": 41,
+			"fatigue": 0,
+			"bond": 2,
+			"quirks": [
+				{
+					"id": "steady_presence",
+					"acquiredAt": 1784127975941
+				},
+				{
+					"id": "infertile",
+					"locked": true,
+					"lockSource": "neglect",
+					"weeks": 9,
+					"acquiredAt": 1784127975941
+				},
+				{
+					"id": "sure_footed",
+					"acquiredAt": 1784127975941
+				},
+				{
+					"id": "set_in_ways",
+					"weeks": 9,
+					"acquiredAt": 1784127975941
+				},
+				{
+					"id": "southpaw",
+					"acquiredAt": 1784127975941
+				}
+			]
+		},
+		{
+			"id": "am_ae49d361-af51-4d1f-ac45-0884bfbcf77e",
+			"name": "Stray Sedu",
+			"deck": [
+				{
+					"id": "sludge_bomb",
+					"level": 1
+				}
+			],
+			"moveLibrary": [
+				{
+					"id": "sludge_bomb",
+					"level": 1
+				}
+			],
+			"maxDeckSlots": 8,
+			"currentHp": 80,
+			"maxHp": 80,
+			"manaRegenBonus": 0,
+			"crawlSpeedBonus": 0,
+			"yardId": "yard_7baa9375-eba9-4df1-a4a4-b9f7c75b4f0b",
+			"activity": null,
+			"weeklyFoodBuffs": [],
+			"weeklyFeedCount": 0,
+			"pendingEvRespec": null,
+			"createdAt": 1784127975941,
+			"speciesId": "sedu",
+			"sex": "male",
+			"level": 1,
+			"xp": 0,
+			"gvs": {
+				"wgt": 46,
+				"str": 31,
+				"spd": 39,
+				"int": 46,
+				"mry": 13,
+				"frt": 3,
+				"grc": 12,
+				"nst": 0
+			},
+			"evs": {
+				"wgt": 0,
+				"str": 0,
+				"spd": 0,
+				"int": 0,
+				"mry": 0,
+				"frt": 0,
+				"grc": 0,
+				"nst": 0
+			},
+			"types": [
+				"DRAGON"
+			],
+			"personality": {
+				"axes": {
+					"discipline": 0.353,
+					"temper": 0.906,
+					"empathy": -0.368,
+					"ego": 0.725,
+					"playfulness": 0.055
+				},
+				"trainedOffsets": {
+					"discipline": 0,
+					"temper": 0,
+					"empathy": 0,
+					"ego": 0,
+					"playfulness": 0
+				},
+				"seed": 3312501596,
+				"speciesId": "sedu"
+			},
+			"happiness": 26,
+			"fatigue": 0,
+			"bond": 2,
+			"quirks": [
+				{
+					"id": "hype_man",
+					"acquiredAt": 1784127975941
+				},
+				{
+					"id": "wary",
+					"locked": true,
+					"lockSource": "neglect",
+					"weeks": 5,
+					"acquiredAt": 1784127975941
+				}
+			]
+		}
+	]
+}
