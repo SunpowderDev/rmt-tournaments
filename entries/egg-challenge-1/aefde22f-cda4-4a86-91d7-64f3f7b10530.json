@@ -4,8 +4,8 @@
 	"playerId": "aefde22f-cda4-4a86-91d7-64f3f7b10530",
 	"playerName": "Meb1",
 	"trainerName": "Meb1",
-	"submittedAtIso": "2026-07-16T09:18:02.728Z",
-	"gymWeek": 11,
+	"submittedAtIso": "2026-07-16T09:19:13.710Z",
+	"gymWeek": 14,
 	"registeredAtWeek": 2,
 	"monsters": [
 		{
@@ -83,7 +83,7 @@
 				"seed": 3650630255,
 				"speciesId": "monkela"
 			},
-			"happiness": 53,
+			"happiness": 47,
 			"fatigue": 0,
 			"bond": 2,
 			"quirks": [
@@ -93,8 +93,10 @@
 				},
 				{
 					"id": "bleary_eyed",
-					"weeks": 9,
-					"acquiredAt": 1784127975940
+					"weeks": 12,
+					"acquiredAt": 1784127975940,
+					"locked": true,
+					"lockSource": "neglect"
 				},
 				{
 					"id": "open_minded",
@@ -157,11 +159,11 @@
 			],
 			"personality": {
 				"axes": {
-					"discipline": 0.025,
-					"temper": -0.584,
-					"empathy": 0.267,
-					"ego": -0.77,
-					"playfulness": -0.385
+					"discipline": 0.075,
+					"temper": -0.358,
+					"empathy": 0.171,
+					"ego": -0.543,
+					"playfulness": -0.318
 				},
 				"trainedOffsets": {
 					"discipline": 0,
@@ -173,7 +175,7 @@
 				"seed": 1745701117,
 				"speciesId": "tomio"
 			},
-			"happiness": 42,
+			"happiness": 45,
 			"fatigue": 0,
 			"bond": 2,
 			"quirks": [
@@ -205,7 +207,7 @@
 				},
 				{
 					"id": "cripple",
-					"weeks": 4,
+					"weeks": 7,
 					"acquiredAt": 1784187629332
 				}
 			]
@@ -285,7 +287,7 @@
 				"seed": 2308055031,
 				"speciesId": "rhymer"
 			},
-			"happiness": 41,
+			"happiness": 32,
 			"fatigue": 0,
 			"bond": 2,
 			"quirks": [
@@ -306,8 +308,10 @@
 				},
 				{
 					"id": "set_in_ways",
-					"weeks": 9,
-					"acquiredAt": 1784127975941
+					"weeks": 10,
+					"acquiredAt": 1784127975941,
+					"locked": true,
+					"lockSource": "neglect"
 				},
 				{
 					"id": "southpaw",
@@ -370,11 +374,11 @@
 			],
 			"personality": {
 				"axes": {
-					"discipline": 0.353,
-					"temper": 0.906,
-					"empathy": -0.368,
-					"ego": 0.725,
-					"playfulness": 0.055
+					"discipline": 0.325,
+					"temper": 0.78,
+					"empathy": -0.314,
+					"ego": 0.599,
+					"playfulness": 0.018
 				},
 				"trainedOffsets": {
 					"discipline": 0,
@@ -386,7 +390,7 @@
 				"seed": 3312501596,
 				"speciesId": "sedu"
 			},
-			"happiness": 26,
+			"happiness": 29,
 			"fatigue": 0,
 			"bond": 2,
 			"quirks": [
