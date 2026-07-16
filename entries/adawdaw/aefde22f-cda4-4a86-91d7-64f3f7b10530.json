@@ -1,0 +1,465 @@
+{
+	"formatVersion": 1,
+	"tournamentId": "adawdaw",
+	"playerId": "aefde22f-cda4-4a86-91d7-64f3f7b10530",
+	"playerName": "Meb1",
+	"trainerName": "Meb1",
+	"submittedAtIso": "2026-07-16T09:16:54.956Z",
+	"gymWeek": 11,
+	"registeredAtWeek": 11,
+	"monsters": [
+		{
+			"id": "am_bbb76bbe-85be-45c5-8b7d-d9c338d241e8",
+			"name": "Jetshell",
+			"deck": [
+				{
+					"id": "body_slam",
+					"level": 1
+				},
+				{
+					"id": "geyser_jet",
+					"level": 1
+				},
+				{
+					"id": "surf",
+					"level": 1
+				},
+				{
+					"id": "mirror_image",
+					"level": 1
+				},
+				{
+					"id": "flow_state",
+					"level": 1
+				}
+			],
+			"moveLibrary": [
+				{
+					"id": "geyser_jet",
+					"level": 1
+				},
+				{
+					"id": "bout",
+					"level": 1
+				},
+				{
+					"id": "surf",
+					"level": 1
+				},
+				{
+					"id": "mirror_image",
+					"level": 1
+				},
+				{
+					"id": "body_slam",
+					"level": 1
+				},
+				{
+					"id": "flow_state",
+					"level": 1
+				},
+				{
+					"id": "water_shield",
+					"level": 1
+				}
+			],
+			"maxDeckSlots": 8,
+			"currentHp": 68,
+			"maxHp": 68,
+			"manaRegenBonus": 0,
+			"crawlSpeedBonus": 0,
+			"yardId": "yard_01acb6f5-675c-4dec-bbd8-0b8b802ec405",
+			"activity": null,
+			"weeklyFoodBuffs": [],
+			"weeklyFeedCount": 0,
+			"pendingEvRespec": null,
+			"createdAt": 1784127765567,
+			"speciesId": "zimdak",
+			"sex": "female",
+			"level": 8,
+			"xp": 512,
+			"gvs": {
+				"wgt": 25,
+				"str": 30,
+				"spd": 7,
+				"int": 26,
+				"mry": 6,
+				"frt": 32,
+				"grc": 25,
+				"nst": 0
+			},
+			"evs": {
+				"wgt": 5,
+				"str": 3,
+				"spd": 4,
+				"int": 3,
+				"mry": 1,
+				"frt": 3,
+				"grc": 3,
+				"nst": 0
+			},
+			"types": [
+				"WATER"
+			],
+			"personality": {
+				"axes": {
+					"discipline": -0.3,
+					"temper": 0.431,
+					"empathy": -0.75,
+					"ego": 0.15,
+					"playfulness": -0.5
+				},
+				"trainedOffsets": {
+					"discipline": 0,
+					"temper": 0,
+					"empathy": 0,
+					"ego": 0,
+					"playfulness": 0
+				},
+				"seed": 1947414448,
+				"speciesId": "zimdak"
+			},
+			"happiness": 53,
+			"fatigue": 0,
+			"bond": 59,
+			"quirks": [
+				{
+					"id": "first_friend",
+					"acquiredAt": 1782199976208
+				},
+				{
+					"id": "dominant",
+					"acquiredAt": 1784184151482
+				},
+				{
+					"id": "neuroplastic",
+					"acquiredAt": 1784184726666
+				}
+			]
+		},
+		{
+			"id": "am_a230608a-8821-46c1-ad95-ed2045b1c20e",
+			"name": "Poisoned Stray Archio",
+			"deck": [
+				{
+					"id": "blaze_in",
+					"level": 1
+				},
+				{
+					"id": "flame_of_desire",
+					"level": 1
+				},
+				{
+					"id": "grass_cut",
+					"level": 1
+				}
+			],
+			"moveLibrary": [
+				{
+					"id": "blaze_in",
+					"level": 1
+				},
+				{
+					"id": "flame_of_desire",
+					"level": 1
+				},
+				{
+					"id": "grass_cut",
+					"level": 1
+				},
+				{
+					"id": "dash",
+					"level": 1
+				},
+				{
+					"id": "smokescreen",
+					"level": 1
+				}
+			],
+			"maxDeckSlots": 8,
+			"currentHp": 50,
+			"maxHp": 50,
+			"manaRegenBonus": 0,
+			"crawlSpeedBonus": 0,
+			"yardId": "yard_01acb6f5-675c-4dec-bbd8-0b8b802ec405",
+			"activity": null,
+			"weeklyFoodBuffs": [],
+			"weeklyFeedCount": 0,
+			"pendingEvRespec": null,
+			"createdAt": 1784127800254,
+			"speciesId": "archio",
+			"sex": "female",
+			"level": 1,
+			"xp": 0,
+			"gvs": {
+				"wgt": 9,
+				"str": 25,
+				"spd": 30,
+				"int": 17,
+				"mry": 13,
+				"frt": 13,
+				"grc": 32,
+				"nst": 0
+			},
+			"evs": {
+				"wgt": 0,
+				"str": 0,
+				"spd": 0,
+				"int": 0,
+				"mry": 0,
+				"frt": 0,
+				"grc": 0,
+				"nst": 0
+			},
+			"types": [
+				"FIRE"
+			],
+			"personality": {
+				"axes": {
+					"discipline": -0.769,
+					"temper": 0.175,
+					"empathy": 0.196,
+					"ego": 0.36,
+					"playfulness": -0.832
+				},
+				"trainedOffsets": {
+					"discipline": 0,
+					"temper": 0,
+					"empathy": 0,
+					"ego": 0,
+					"playfulness": 0
+				},
+				"seed": 1220009439,
+				"speciesId": "archio"
+			},
+			"happiness": 44,
+			"fatigue": 0,
+			"bond": 25,
+			"quirks": [
+				{
+					"id": "pack_rat",
+					"acquiredAt": 1784127800254
+				},
+				{
+					"id": "bleary_eyed",
+					"locked": true,
+					"lockSource": "neglect",
+					"weeks": 7,
+					"acquiredAt": 1784127800254
+				},
+				{
+					"id": "hype_man",
+					"acquiredAt": 1784127800254
+				}
+			]
+		},
+		{
+			"id": "am_5f151562-e306-4e51-840d-a9c27a20f154",
+			"name": "Poisoned Stray Sedu",
+			"deck": [
+				{
+					"id": "grass_cut",
+					"level": 1
+				},
+				{
+					"id": "chlorophyll",
+					"level": 1
+				},
+				{
+					"id": "headbutt",
+					"level": 1
+				}
+			],
+			"moveLibrary": [
+				{
+					"id": "grass_cut",
+					"level": 1
+				},
+				{
+					"id": "chlorophyll",
+					"level": 1
+				},
+				{
+					"id": "headbutt",
+					"level": 1
+				},
+				{
+					"id": "faint",
+					"level": 1
+				}
+			],
+			"maxDeckSlots": 8,
+			"currentHp": 66,
+			"maxHp": 66,
+			"manaRegenBonus": 0,
+			"crawlSpeedBonus": 0,
+			"yardId": "yard_01acb6f5-675c-4dec-bbd8-0b8b802ec405",
+			"activity": null,
+			"weeklyFoodBuffs": [],
+			"weeklyFeedCount": 0,
+			"pendingEvRespec": null,
+			"createdAt": 1784127822148,
+			"speciesId": "sedu",
+			"sex": "female",
+			"level": 1,
+			"xp": 0,
+			"gvs": {
+				"wgt": 16,
+				"str": 44,
+				"spd": 47,
+				"int": 4,
+				"mry": 4,
+				"frt": 6,
+				"grc": 12,
+				"nst": 0
+			},
+			"evs": {
+				"wgt": 0,
+				"str": 0,
+				"spd": 0,
+				"int": 0,
+				"mry": 0,
+				"frt": 0,
+				"grc": 0,
+				"nst": 0
+			},
+			"types": [
+				"GRASS"
+			],
+			"personality": {
+				"axes": {
+					"discipline": -0.348,
+					"temper": -0.184,
+					"empathy": 0.67,
+					"ego": 0.314,
+					"playfulness": 0.395
+				},
+				"trainedOffsets": {
+					"discipline": 0,
+					"temper": 0,
+					"empathy": 0,
+					"ego": 0,
+					"playfulness": 0
+				},
+				"seed": 967023322,
+				"speciesId": "sedu"
+			},
+			"happiness": 50,
+			"fatigue": 0,
+			"bond": 29,
+			"quirks": [
+				{
+					"id": "eager",
+					"acquiredAt": 1784127822148
+				},
+				{
+					"id": "bleary_eyed",
+					"weeks": 10,
+					"acquiredAt": 1784127822148
+				},
+				{
+					"id": "pack_rat",
+					"acquiredAt": 1784127822148
+				},
+				{
+					"id": "scavenger",
+					"acquiredAt": 1784127822148
+				}
+			]
+		},
+		{
+			"id": "am_33086ae8-bb82-4729-ba12-e7ebe7cf5161",
+			"name": "Stray Monkela",
+			"deck": [
+				{
+					"id": "burrow",
+					"level": 1
+				}
+			],
+			"moveLibrary": [
+				{
+					"id": "burrow",
+					"level": 1
+				}
+			],
+			"maxDeckSlots": 8,
+			"currentHp": 39,
+			"maxHp": 39,
+			"manaRegenBonus": 0,
+			"crawlSpeedBonus": 0,
+			"yardId": "yard_7baa9375-eba9-4df1-a4a4-b9f7c75b4f0b",
+			"activity": null,
+			"weeklyFoodBuffs": [],
+			"weeklyFeedCount": 0,
+			"pendingEvRespec": null,
+			"createdAt": 1784127975939,
+			"speciesId": "monkela",
+			"sex": "male",
+			"lastBredWeek": 7,
+			"breedPartnerIds": [
+				"am_e8c8bfa4-63f6-4bc1-a3a6-ffaf58a7ae11"
+			],
+			"level": 1,
+			"xp": 6,
+			"gvs": {
+				"wgt": 24,
+				"str": 8,
+				"spd": 18,
+				"int": 0,
+				"mry": 31,
+				"frt": 45,
+				"grc": 47,
+				"nst": 0
+			},
+			"evs": {
+				"wgt": 0,
+				"str": 0,
+				"spd": 0,
+				"int": 0,
+				"mry": 2,
+				"frt": 1,
+				"grc": 0,
+				"nst": 0
+			},
+			"types": [
+				"ICESTEEL"
+			],
+			"personality": {
+				"axes": {
+					"discipline": -0.864,
+					"temper": -0.362,
+					"empathy": -0.643,
+					"ego": -0.333,
+					"playfulness": -0.727
+				},
+				"trainedOffsets": {
+					"discipline": 0,
+					"temper": 0,
+					"empathy": 0,
+					"ego": 0,
+					"playfulness": 0
+				},
+				"seed": 3650630255,
+				"speciesId": "monkela"
+			},
+			"happiness": 53,
+			"fatigue": 0,
+			"bond": 2,
+			"quirks": [
+				{
+					"id": "eager",
+					"acquiredAt": 1784127975940
+				},
+				{
+					"id": "bleary_eyed",
+					"weeks": 9,
+					"acquiredAt": 1784127975940
+				},
+				{
+					"id": "open_minded",
+					"acquiredAt": 1784127975940
+				}
+			]
+		}
+	]
+}
