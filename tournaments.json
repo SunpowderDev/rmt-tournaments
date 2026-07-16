@@ -3,7 +3,7 @@
 		"id": "egg-challenge-1",
 		"name": "Egg Challenge #1",
 		"mpType": "EGG_CHALLENGE",
-		"deadlineUtc": "2026-07-24T16:00:00Z",
+		"deadlineUtc": "2026-07-16T09:20:00.000Z",
 		"engineVersion": "mp-3",
 		"entryFeeCoins": 0,
 		"levelCap": null,
@@ -16,6 +16,7 @@
 			"distinctMonotypes": true
 		},
 		"status": "open",
+		"minBracketSize": 8,
 		"description": "Four hatchlings, twelve weeks. Raise them your way — every player gets their own rolled hatchlings, no two sharing a type."
 	},
 	{
