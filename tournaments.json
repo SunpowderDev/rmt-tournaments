@@ -32,5 +32,21 @@
 		"eggRollSpec": null,
 		"status": "finished",
 		"description": "Beginner-tier showdown: submit any four monsters at level 10 or under before the deadline."
+	},
+	{
+		"id": "test-tourn-2",
+		"name": "PATACCHIO TTT",
+		"mpType": "TIER_TOURNAMENT",
+		"deadlineUtc": "2026-07-20T08:00:00.000Z",
+		"engineVersion": "mp-3",
+		"entryFeeCoins": 0,
+		"levelCap": 10,
+		"maxWeeks": null,
+		"maxRegistrationWeek": null,
+		"partySize": 4,
+		"eggRollSpec": null,
+		"status": "open",
+		"minBracketSize": 8,
+		"description": "ghu ghu"
 	}
 ]
