@@ -48,5 +48,20 @@
 		"status": "open",
 		"minBracketSize": 8,
 		"description": "ghu ghu"
+	},
+	{
+		"id": "adawdaw",
+		"name": "awdadw",
+		"mpType": "TIER_TOURNAMENT",
+		"deadlineUtc": "2026-07-23T09:00:00.000Z",
+		"engineVersion": "mp-3",
+		"entryFeeCoins": 0,
+		"levelCap": 10,
+		"maxWeeks": null,
+		"maxRegistrationWeek": null,
+		"partySize": 4,
+		"eggRollSpec": null,
+		"status": "open",
+		"minBracketSize": 8
 	}
 ]
