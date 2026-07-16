@@ -1,0 +1,3087 @@
+{
+	"formatVersion": 1,
+	"tournamentId": "egg-challenge-1",
+	"tournamentName": "Egg Challenge #1",
+	"mpType": "EGG_CHALLENGE",
+	"engineVersion": "mp-3",
+	"masterSeed": 520813284,
+	"partySize": 4,
+	"entrants": [
+		{
+			"playerId": "aefde22f-cda4-4a86-91d7-64f3f7b10530",
+			"playerName": "Meb1",
+			"trainerName": "Meb1",
+			"isBot": false,
+			"monsters": [
+				{
+					"id": "am_33086ae8-bb82-4729-ba12-e7ebe7cf5161",
+					"name": "Stray Monkela",
+					"deck": [
+						{
+							"id": "burrow",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "burrow",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 39,
+					"maxHp": 39,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"yardId": "yard_7baa9375-eba9-4df1-a4a4-b9f7c75b4f0b",
+					"activity": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"pendingEvRespec": null,
+					"createdAt": 1784127975939,
+					"speciesId": "monkela",
+					"sex": "male",
+					"lastBredWeek": 7,
+					"breedPartnerIds": [
+						"am_e8c8bfa4-63f6-4bc1-a3a6-ffaf58a7ae11"
+					],
+					"level": 1,
+					"xp": 6,
+					"gvs": {
+						"wgt": 24,
+						"str": 8,
+						"spd": 18,
+						"int": 0,
+						"mry": 31,
+						"frt": 45,
+						"grc": 47,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 2,
+						"frt": 1,
+						"grc": 0,
+						"nst": 0
+					},
+					"types": [
+						"ICESTEEL"
+					],
+					"personality": {
+						"axes": {
+							"discipline": -0.864,
+							"temper": -0.362,
+							"empathy": -0.643,
+							"ego": -0.333,
+							"playfulness": -0.727
+						},
+						"trainedOffsets": {
+							"discipline": 0,
+							"temper": 0,
+							"empathy": 0,
+							"ego": 0,
+							"playfulness": 0
+						},
+						"seed": 3650630255,
+						"speciesId": "monkela"
+					},
+					"happiness": 47,
+					"fatigue": 0,
+					"bond": 2,
+					"quirks": [
+						{
+							"id": "eager",
+							"acquiredAt": 1784127975940
+						},
+						{
+							"id": "bleary_eyed",
+							"weeks": 12,
+							"acquiredAt": 1784127975940,
+							"locked": true,
+							"lockSource": "neglect"
+						},
+						{
+							"id": "open_minded",
+							"acquiredAt": 1784127975940
+						}
+					]
+				},
+				{
+					"id": "am_f27e78ef-c8ce-482f-ac6a-56af058712fd",
+					"name": "Stray Tomio",
+					"deck": [
+						{
+							"id": "swarm",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "swarm",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 48,
+					"maxHp": 48,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"yardId": "yard_7baa9375-eba9-4df1-a4a4-b9f7c75b4f0b",
+					"activity": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"pendingEvRespec": null,
+					"createdAt": 1784127975940,
+					"speciesId": "tomio",
+					"sex": "female",
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 15,
+						"str": 14,
+						"spd": 15,
+						"int": 18,
+						"mry": 34,
+						"frt": 9,
+						"grc": 12,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"types": [
+						"BASIC"
+					],
+					"personality": {
+						"axes": {
+							"discipline": 0.075,
+							"temper": -0.358,
+							"empathy": 0.171,
+							"ego": -0.543,
+							"playfulness": -0.318
+						},
+						"trainedOffsets": {
+							"discipline": 0,
+							"temper": 0,
+							"empathy": 0,
+							"ego": 0,
+							"playfulness": 0
+						},
+						"seed": 1745701117,
+						"speciesId": "tomio"
+					},
+					"happiness": 45,
+					"fatigue": 0,
+					"bond": 2,
+					"quirks": [
+						{
+							"id": "first_friend",
+							"acquiredAt": 1784127975940
+						},
+						{
+							"id": "submissive",
+							"locked": true,
+							"lockSource": "neglect",
+							"weeks": 4,
+							"acquiredAt": 1784127975940
+						},
+						{
+							"id": "neuroplastic",
+							"acquiredAt": 1784127975940
+						},
+						{
+							"id": "gourmand",
+							"acquiredAt": 1784127975940
+						},
+						{
+							"id": "self_effacing",
+							"locked": true,
+							"lockSource": "neglect",
+							"weeks": 4,
+							"acquiredAt": 1784127975940
+						},
+						{
+							"id": "cripple",
+							"weeks": 7,
+							"acquiredAt": 1784187629332
+						}
+					]
+				},
+				{
+					"id": "am_e8c8bfa4-63f6-4bc1-a3a6-ffaf58a7ae11",
+					"name": "Stray Rhymer",
+					"deck": [
+						{
+							"id": "sludge_bomb",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "sludge_bomb",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 69,
+					"maxHp": 69,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"yardId": "yard_7baa9375-eba9-4df1-a4a4-b9f7c75b4f0b",
+					"activity": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"pendingEvRespec": null,
+					"createdAt": 1784127975941,
+					"speciesId": "rhymer",
+					"sex": "female",
+					"lastBredWeek": 7,
+					"breedPartnerIds": [
+						"am_33086ae8-bb82-4729-ba12-e7ebe7cf5161"
+					],
+					"level": 1,
+					"xp": 4,
+					"gvs": {
+						"wgt": 42,
+						"str": 34,
+						"spd": 27,
+						"int": 24,
+						"mry": 14,
+						"frt": 26,
+						"grc": 12,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"types": [
+						"WATER"
+					],
+					"personality": {
+						"axes": {
+							"discipline": -0.76,
+							"temper": -0.635,
+							"empathy": 0.443,
+							"ego": -0.681,
+							"playfulness": -0.741
+						},
+						"trainedOffsets": {
+							"discipline": 0,
+							"temper": 0,
+							"empathy": 0,
+							"ego": 0,
+							"playfulness": 0
+						},
+						"seed": 2308055031,
+						"speciesId": "rhymer"
+					},
+					"happiness": 32,
+					"fatigue": 0,
+					"bond": 2,
+					"quirks": [
+						{
+							"id": "steady_presence",
+							"acquiredAt": 1784127975941
+						},
+						{
+							"id": "infertile",
+							"locked": true,
+							"lockSource": "neglect",
+							"weeks": 9,
+							"acquiredAt": 1784127975941
+						},
+						{
+							"id": "sure_footed",
+							"acquiredAt": 1784127975941
+						},
+						{
+							"id": "set_in_ways",
+							"weeks": 10,
+							"acquiredAt": 1784127975941,
+							"locked": true,
+							"lockSource": "neglect"
+						},
+						{
+							"id": "southpaw",
+							"acquiredAt": 1784127975941
+						}
+					]
+				},
+				{
+					"id": "am_ae49d361-af51-4d1f-ac45-0884bfbcf77e",
+					"name": "Stray Sedu",
+					"deck": [
+						{
+							"id": "sludge_bomb",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "sludge_bomb",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 80,
+					"maxHp": 80,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"yardId": "yard_7baa9375-eba9-4df1-a4a4-b9f7c75b4f0b",
+					"activity": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"pendingEvRespec": null,
+					"createdAt": 1784127975941,
+					"speciesId": "sedu",
+					"sex": "male",
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 46,
+						"str": 31,
+						"spd": 39,
+						"int": 46,
+						"mry": 13,
+						"frt": 3,
+						"grc": 12,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"types": [
+						"DRAGON"
+					],
+					"personality": {
+						"axes": {
+							"discipline": 0.325,
+							"temper": 0.78,
+							"empathy": -0.314,
+							"ego": 0.599,
+							"playfulness": 0.018
+						},
+						"trainedOffsets": {
+							"discipline": 0,
+							"temper": 0,
+							"empathy": 0,
+							"ego": 0,
+							"playfulness": 0
+						},
+						"seed": 3312501596,
+						"speciesId": "sedu"
+					},
+					"happiness": 29,
+					"fatigue": 0,
+					"bond": 2,
+					"quirks": [
+						{
+							"id": "hype_man",
+							"acquiredAt": 1784127975941
+						},
+						{
+							"id": "wary",
+							"locked": true,
+							"lockSource": "neglect",
+							"weeks": 5,
+							"acquiredAt": 1784127975941
+						}
+					]
+				}
+			]
+		},
+		{
+			"playerId": "bot:0",
+			"playerName": "Flux (AI)",
+			"trainerName": "Flux",
+			"isBot": true,
+			"monsters": [
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_0_0_0",
+					"name": "Fang",
+					"speciesId": "zimdak",
+					"types": [
+						"GRASS",
+						"ICESTEEL"
+					],
+					"level": 8,
+					"xp": 448,
+					"gvs": {
+						"wgt": 32,
+						"str": 14,
+						"spd": 4,
+						"int": 34,
+						"mry": 18,
+						"frt": 0,
+						"grc": 19,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "entangle",
+							"level": 1
+						},
+						{
+							"id": "iron_hail",
+							"level": 1
+						},
+						{
+							"id": "razor_leaf",
+							"level": 1
+						},
+						{
+							"id": "faint",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "entangle",
+							"level": 1
+						},
+						{
+							"id": "iron_hail",
+							"level": 1
+						},
+						{
+							"id": "razor_leaf",
+							"level": 1
+						},
+						{
+							"id": "faint",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 72,
+					"maxHp": 72,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_0_0_1",
+					"name": "Echo",
+					"speciesId": "sedu",
+					"types": [
+						"SHADOW",
+						"GRASS"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 32,
+						"str": 41,
+						"spd": 19,
+						"int": 31,
+						"mry": 24,
+						"frt": 38,
+						"grc": 43,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "leech_seed",
+							"level": 1
+						},
+						{
+							"id": "razor_leaf",
+							"level": 1
+						},
+						{
+							"id": "vine_hook",
+							"level": 1
+						},
+						{
+							"id": "grapple",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "leech_seed",
+							"level": 1
+						},
+						{
+							"id": "razor_leaf",
+							"level": 1
+						},
+						{
+							"id": "vine_hook",
+							"level": 1
+						},
+						{
+							"id": "grapple",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 73,
+					"maxHp": 73,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_0_0_2",
+					"name": "Ace",
+					"speciesId": "bomdilo",
+					"types": [
+						"FAIRY",
+						"ELECTRIC"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 17,
+						"str": 27,
+						"spd": 5,
+						"int": 2,
+						"mry": 28,
+						"frt": 25,
+						"grc": 6,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "burrow",
+							"level": 1
+						},
+						{
+							"id": "wild_surge",
+							"level": 1
+						},
+						{
+							"id": "lovers_will",
+							"level": 1
+						},
+						{
+							"id": "chainbolt",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "burrow",
+							"level": 1
+						},
+						{
+							"id": "wild_surge",
+							"level": 1
+						},
+						{
+							"id": "lovers_will",
+							"level": 1
+						},
+						{
+							"id": "chainbolt",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 48,
+					"maxHp": 48,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_0_0_3",
+					"name": "Cleo",
+					"speciesId": "grull",
+					"types": [
+						"ICESTEEL",
+						"TECH"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 42,
+						"str": 31,
+						"spd": 12,
+						"int": 37,
+						"mry": 4,
+						"frt": 29,
+						"grc": 4,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "fireball",
+							"level": 1
+						},
+						{
+							"id": "chill_touch",
+							"level": 1
+						},
+						{
+							"id": "headbutt",
+							"level": 1
+						},
+						{
+							"id": "shield",
+							"level": 1
+						},
+						{
+							"id": "cold_snap",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "fireball",
+							"level": 1
+						},
+						{
+							"id": "chill_touch",
+							"level": 1
+						},
+						{
+							"id": "headbutt",
+							"level": 1
+						},
+						{
+							"id": "shield",
+							"level": 1
+						},
+						{
+							"id": "cold_snap",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 97,
+					"maxHp": 97,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				}
+			]
+		},
+		{
+			"playerId": "bot:1",
+			"playerName": "Mist (AI)",
+			"trainerName": "Mist",
+			"isBot": true,
+			"monsters": [
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_1_0_0",
+					"name": "Echo",
+					"speciesId": "rhymer",
+					"types": [
+						"BASIC"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 0,
+						"str": 35,
+						"spd": 2,
+						"int": 21,
+						"mry": 2,
+						"frt": 23,
+						"grc": 39,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "bone_kick",
+							"level": 1
+						},
+						{
+							"id": "grapple",
+							"level": 1
+						},
+						{
+							"id": "faint",
+							"level": 1
+						},
+						{
+							"id": "bout",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "bone_kick",
+							"level": 1
+						},
+						{
+							"id": "grapple",
+							"level": 1
+						},
+						{
+							"id": "faint",
+							"level": 1
+						},
+						{
+							"id": "bout",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 50,
+					"maxHp": 50,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_1_0_1",
+					"name": "Ace",
+					"speciesId": "zimdak",
+					"types": [
+						"WIND",
+						"TECH"
+					],
+					"level": 5,
+					"xp": 160,
+					"gvs": {
+						"wgt": 12,
+						"str": 13,
+						"spd": 4,
+						"int": 42,
+						"mry": 9,
+						"frt": 2,
+						"grc": 42,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "cyclone",
+							"level": 1
+						},
+						{
+							"id": "fresh_breeze",
+							"level": 1
+						},
+						{
+							"id": "cyborgs_core",
+							"level": 1
+						},
+						{
+							"id": "fly",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "cyclone",
+							"level": 1
+						},
+						{
+							"id": "fresh_breeze",
+							"level": 1
+						},
+						{
+							"id": "cyborgs_core",
+							"level": 1
+						},
+						{
+							"id": "fly",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 50,
+					"maxHp": 50,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_1_0_2",
+					"name": "Buster",
+					"speciesId": "rhymer",
+					"types": [
+						"FIRE"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 25,
+						"str": 22,
+						"spd": 41,
+						"int": 6,
+						"mry": 7,
+						"frt": 26,
+						"grc": 45,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "fireball",
+							"level": 1
+						},
+						{
+							"id": "fire_wisp",
+							"level": 1
+						},
+						{
+							"id": "flame_of_desire",
+							"level": 1
+						},
+						{
+							"id": "meteor_mortar",
+							"level": 1
+						},
+						{
+							"id": "flamethrower",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "fireball",
+							"level": 1
+						},
+						{
+							"id": "fire_wisp",
+							"level": 1
+						},
+						{
+							"id": "flame_of_desire",
+							"level": 1
+						},
+						{
+							"id": "meteor_mortar",
+							"level": 1
+						},
+						{
+							"id": "flamethrower",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 61,
+					"maxHp": 61,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_1_0_3",
+					"name": "Drift",
+					"speciesId": "monkela",
+					"types": [
+						"BASIC",
+						"ELECTRIC"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 38,
+						"str": 47,
+						"spd": 36,
+						"int": 40,
+						"mry": 46,
+						"frt": 19,
+						"grc": 11,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "grapple",
+							"level": 1
+						},
+						{
+							"id": "leap_back",
+							"level": 1
+						},
+						{
+							"id": "grand_slap",
+							"level": 1
+						},
+						{
+							"id": "double_slash",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "grapple",
+							"level": 1
+						},
+						{
+							"id": "leap_back",
+							"level": 1
+						},
+						{
+							"id": "grand_slap",
+							"level": 1
+						},
+						{
+							"id": "double_slash",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 44,
+					"maxHp": 44,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				}
+			]
+		},
+		{
+			"playerId": "bot:2",
+			"playerName": "Gale (AI)",
+			"trainerName": "Gale",
+			"isBot": true,
+			"monsters": [
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_2_0_0",
+					"name": "Ace",
+					"speciesId": "archio",
+					"types": [
+						"FIRE"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 46,
+						"str": 3,
+						"spd": 19,
+						"int": 4,
+						"mry": 46,
+						"frt": 36,
+						"grc": 27,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "meteor_mortar",
+							"level": 1
+						},
+						{
+							"id": "blaze_in",
+							"level": 1
+						},
+						{
+							"id": "flame_of_desire",
+							"level": 1
+						},
+						{
+							"id": "double_slash",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "meteor_mortar",
+							"level": 1
+						},
+						{
+							"id": "blaze_in",
+							"level": 1
+						},
+						{
+							"id": "flame_of_desire",
+							"level": 1
+						},
+						{
+							"id": "double_slash",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 66,
+					"maxHp": 66,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_2_0_1",
+					"name": "Drift",
+					"speciesId": "archio",
+					"types": [
+						"WIND"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 26,
+						"str": 13,
+						"spd": 21,
+						"int": 11,
+						"mry": 0,
+						"frt": 47,
+						"grc": 28,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "cyclone",
+							"level": 1
+						},
+						{
+							"id": "pierce",
+							"level": 1
+						},
+						{
+							"id": "fresh_breeze",
+							"level": 1
+						},
+						{
+							"id": "evade",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "cyclone",
+							"level": 1
+						},
+						{
+							"id": "pierce",
+							"level": 1
+						},
+						{
+							"id": "fresh_breeze",
+							"level": 1
+						},
+						{
+							"id": "evade",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 57,
+					"maxHp": 57,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_2_0_2",
+					"name": "Fang",
+					"speciesId": "monkela",
+					"types": [
+						"SHADOW"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 27,
+						"str": 27,
+						"spd": 26,
+						"int": 45,
+						"mry": 30,
+						"frt": 25,
+						"grc": 43,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "grapple",
+							"level": 1
+						},
+						{
+							"id": "vampire_bite",
+							"level": 1
+						},
+						{
+							"id": "sidestep",
+							"level": 1
+						},
+						{
+							"id": "impale",
+							"level": 1
+						},
+						{
+							"id": "fear",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "grapple",
+							"level": 1
+						},
+						{
+							"id": "vampire_bite",
+							"level": 1
+						},
+						{
+							"id": "sidestep",
+							"level": 1
+						},
+						{
+							"id": "impale",
+							"level": 1
+						},
+						{
+							"id": "fear",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 40,
+					"maxHp": 40,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_2_0_3",
+					"name": "Echo",
+					"speciesId": "sedu",
+					"types": [
+						"FAIRY"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 45,
+						"str": 12,
+						"spd": 40,
+						"int": 23,
+						"mry": 2,
+						"frt": 1,
+						"grc": 16,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "lovers_will",
+							"level": 1
+						},
+						{
+							"id": "holy_word",
+							"level": 1
+						},
+						{
+							"id": "recover",
+							"level": 1
+						},
+						{
+							"id": "reflect",
+							"level": 1
+						},
+						{
+							"id": "dash",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "lovers_will",
+							"level": 1
+						},
+						{
+							"id": "holy_word",
+							"level": 1
+						},
+						{
+							"id": "recover",
+							"level": 1
+						},
+						{
+							"id": "reflect",
+							"level": 1
+						},
+						{
+							"id": "dash",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 80,
+					"maxHp": 80,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				}
+			]
+		},
+		{
+			"playerId": "bot:3",
+			"playerName": "Ember (AI)",
+			"trainerName": "Ember",
+			"isBot": true,
+			"monsters": [
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_3_0_0",
+					"name": "Buster",
+					"speciesId": "archio",
+					"types": [
+						"TECH"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 19,
+						"str": 19,
+						"spd": 30,
+						"int": 47,
+						"mry": 47,
+						"frt": 37,
+						"grc": 24,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "particle_split",
+							"level": 1
+						},
+						{
+							"id": "lick",
+							"level": 1
+						},
+						{
+							"id": "shield",
+							"level": 1
+						},
+						{
+							"id": "self_destruct",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "particle_split",
+							"level": 1
+						},
+						{
+							"id": "lick",
+							"level": 1
+						},
+						{
+							"id": "shield",
+							"level": 1
+						},
+						{
+							"id": "self_destruct",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 54,
+					"maxHp": 54,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_3_0_1",
+					"name": "Drift",
+					"speciesId": "sedu",
+					"types": [
+						"ICESTEEL"
+					],
+					"level": 10,
+					"xp": 720,
+					"gvs": {
+						"wgt": 15,
+						"str": 5,
+						"spd": 14,
+						"int": 24,
+						"mry": 15,
+						"frt": 30,
+						"grc": 3,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "ice_shard",
+							"level": 1
+						},
+						{
+							"id": "ice_lance",
+							"level": 1
+						},
+						{
+							"id": "reflect",
+							"level": 1
+						},
+						{
+							"id": "bone_kick",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "ice_shard",
+							"level": 1
+						},
+						{
+							"id": "ice_lance",
+							"level": 1
+						},
+						{
+							"id": "reflect",
+							"level": 1
+						},
+						{
+							"id": "bone_kick",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 108,
+					"maxHp": 108,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_3_0_2",
+					"name": "Ace",
+					"speciesId": "rhymer",
+					"types": [
+						"TECH"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 34,
+						"str": 30,
+						"spd": 29,
+						"int": 3,
+						"mry": 27,
+						"frt": 16,
+						"grc": 21,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "self_destruct",
+							"level": 1
+						},
+						{
+							"id": "owa_bot",
+							"level": 1
+						},
+						{
+							"id": "overclock",
+							"level": 1
+						},
+						{
+							"id": "bone_kick",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "self_destruct",
+							"level": 1
+						},
+						{
+							"id": "owa_bot",
+							"level": 1
+						},
+						{
+							"id": "overclock",
+							"level": 1
+						},
+						{
+							"id": "bone_kick",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 65,
+					"maxHp": 65,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_3_0_3",
+					"name": "Fang",
+					"speciesId": "grull",
+					"types": [
+						"FAIRY",
+						"EARTH"
+					],
+					"level": 5,
+					"xp": 160,
+					"gvs": {
+						"wgt": 2,
+						"str": 10,
+						"spd": 43,
+						"int": 25,
+						"mry": 27,
+						"frt": 41,
+						"grc": 8,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "shifting_sands",
+							"level": 1
+						},
+						{
+							"id": "holy_word",
+							"level": 1
+						},
+						{
+							"id": "faint",
+							"level": 1
+						},
+						{
+							"id": "ignite",
+							"level": 1
+						},
+						{
+							"id": "lovers_will",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "shifting_sands",
+							"level": 1
+						},
+						{
+							"id": "holy_word",
+							"level": 1
+						},
+						{
+							"id": "faint",
+							"level": 1
+						},
+						{
+							"id": "ignite",
+							"level": 1
+						},
+						{
+							"id": "lovers_will",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 100,
+					"maxHp": 100,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				}
+			]
+		},
+		{
+			"playerId": "bot:4",
+			"playerName": "Cipher (AI)",
+			"trainerName": "Cipher",
+			"isBot": true,
+			"monsters": [
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_4_0_0",
+					"name": "Cleo",
+					"speciesId": "monkela",
+					"types": [
+						"GRASS"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 39,
+						"str": 27,
+						"spd": 1,
+						"int": 2,
+						"mry": 47,
+						"frt": 14,
+						"grc": 17,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "leech_seed",
+							"level": 1
+						},
+						{
+							"id": "grass_fortify",
+							"level": 1
+						},
+						{
+							"id": "grass_cut",
+							"level": 1
+						},
+						{
+							"id": "petaldance",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "leech_seed",
+							"level": 1
+						},
+						{
+							"id": "grass_fortify",
+							"level": 1
+						},
+						{
+							"id": "grass_cut",
+							"level": 1
+						},
+						{
+							"id": "petaldance",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 46,
+					"maxHp": 46,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_4_0_1",
+					"name": "Buster",
+					"speciesId": "elvia",
+					"types": [
+						"DRAGON",
+						"BASIC"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 45,
+						"str": 39,
+						"spd": 5,
+						"int": 27,
+						"mry": 14,
+						"frt": 17,
+						"grc": 22,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "tail_scale",
+							"level": 1
+						},
+						{
+							"id": "smokescreen",
+							"level": 1
+						},
+						{
+							"id": "bait",
+							"level": 1
+						},
+						{
+							"id": "leap_back",
+							"level": 1
+						},
+						{
+							"id": "growl",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "tail_scale",
+							"level": 1
+						},
+						{
+							"id": "smokescreen",
+							"level": 1
+						},
+						{
+							"id": "bait",
+							"level": 1
+						},
+						{
+							"id": "leap_back",
+							"level": 1
+						},
+						{
+							"id": "growl",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 58,
+					"maxHp": 58,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_4_0_2",
+					"name": "Drift",
+					"speciesId": "bomdilo",
+					"types": [
+						"DRAGON"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 1,
+						"str": 45,
+						"spd": 30,
+						"int": 12,
+						"mry": 16,
+						"frt": 9,
+						"grc": 24,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "tail_scale",
+							"level": 1
+						},
+						{
+							"id": "recover",
+							"level": 1
+						},
+						{
+							"id": "dragon_tail",
+							"level": 1
+						},
+						{
+							"id": "smokescreen",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "tail_scale",
+							"level": 1
+						},
+						{
+							"id": "recover",
+							"level": 1
+						},
+						{
+							"id": "dragon_tail",
+							"level": 1
+						},
+						{
+							"id": "smokescreen",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 42,
+					"maxHp": 42,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_4_0_3",
+					"name": "Ace",
+					"speciesId": "monkela",
+					"types": [
+						"ELECTRIC"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 5,
+						"str": 45,
+						"spd": 1,
+						"int": 3,
+						"mry": 2,
+						"frt": 1,
+						"grc": 46,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "bone_kick",
+							"level": 1
+						},
+						{
+							"id": "thunderbolt",
+							"level": 1
+						},
+						{
+							"id": "spark_aura",
+							"level": 1
+						},
+						{
+							"id": "volt_up",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "bone_kick",
+							"level": 1
+						},
+						{
+							"id": "thunderbolt",
+							"level": 1
+						},
+						{
+							"id": "spark_aura",
+							"level": 1
+						},
+						{
+							"id": "volt_up",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 29,
+					"maxHp": 29,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				}
+			]
+		},
+		{
+			"playerId": "bot:5",
+			"playerName": "Haze (AI)",
+			"trainerName": "Haze",
+			"isBot": true,
+			"monsters": [
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_5_0_0",
+					"name": "Ace",
+					"speciesId": "tomio",
+					"types": [
+						"GRASS"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 41,
+						"str": 26,
+						"spd": 19,
+						"int": 39,
+						"mry": 19,
+						"frt": 42,
+						"grc": 8,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "grapple",
+							"level": 1
+						},
+						{
+							"id": "razor_leaf",
+							"level": 1
+						},
+						{
+							"id": "grass_cut",
+							"level": 1
+						},
+						{
+							"id": "cocoon",
+							"level": 1
+						},
+						{
+							"id": "smokescreen",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "grapple",
+							"level": 1
+						},
+						{
+							"id": "razor_leaf",
+							"level": 1
+						},
+						{
+							"id": "grass_cut",
+							"level": 1
+						},
+						{
+							"id": "cocoon",
+							"level": 1
+						},
+						{
+							"id": "smokescreen",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 60,
+					"maxHp": 60,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_5_0_1",
+					"name": "Echo",
+					"speciesId": "archio",
+					"types": [
+						"FIRE"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 11,
+						"str": 35,
+						"spd": 23,
+						"int": 33,
+						"mry": 32,
+						"frt": 45,
+						"grc": 13,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "meteor_mortar",
+							"level": 1
+						},
+						{
+							"id": "sludge_bomb",
+							"level": 1
+						},
+						{
+							"id": "bout",
+							"level": 1
+						},
+						{
+							"id": "grand_slap",
+							"level": 1
+						},
+						{
+							"id": "ignite",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "meteor_mortar",
+							"level": 1
+						},
+						{
+							"id": "sludge_bomb",
+							"level": 1
+						},
+						{
+							"id": "bout",
+							"level": 1
+						},
+						{
+							"id": "grand_slap",
+							"level": 1
+						},
+						{
+							"id": "ignite",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 50,
+					"maxHp": 50,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_5_0_2",
+					"name": "Cleo",
+					"speciesId": "monkela",
+					"types": [
+						"EARTH"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 11,
+						"str": 42,
+						"spd": 8,
+						"int": 8,
+						"mry": 32,
+						"frt": 3,
+						"grc": 37,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "burrow",
+							"level": 1
+						},
+						{
+							"id": "rune_of_strength",
+							"level": 1
+						},
+						{
+							"id": "stone_wall",
+							"level": 1
+						},
+						{
+							"id": "cybercookie",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "burrow",
+							"level": 1
+						},
+						{
+							"id": "rune_of_strength",
+							"level": 1
+						},
+						{
+							"id": "stone_wall",
+							"level": 1
+						},
+						{
+							"id": "cybercookie",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 32,
+					"maxHp": 32,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_5_0_3",
+					"name": "Buster",
+					"speciesId": "sedu",
+					"types": [
+						"ICESTEEL",
+						"TECH"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 18,
+						"str": 47,
+						"spd": 3,
+						"int": 23,
+						"mry": 8,
+						"frt": 18,
+						"grc": 41,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "bone_kick",
+							"level": 1
+						},
+						{
+							"id": "cold_snap",
+							"level": 1
+						},
+						{
+							"id": "shield",
+							"level": 1
+						},
+						{
+							"id": "ice_shard",
+							"level": 1
+						},
+						{
+							"id": "iron_dew",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "bone_kick",
+							"level": 1
+						},
+						{
+							"id": "cold_snap",
+							"level": 1
+						},
+						{
+							"id": "shield",
+							"level": 1
+						},
+						{
+							"id": "ice_shard",
+							"level": 1
+						},
+						{
+							"id": "iron_dew",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 68,
+					"maxHp": 68,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				}
+			]
+		},
+		{
+			"playerId": "bot:6",
+			"playerName": "Kite (AI)",
+			"trainerName": "Kite",
+			"isBot": true,
+			"monsters": [
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_6_0_0",
+					"name": "Ace",
+					"speciesId": "grull",
+					"types": [
+						"EARTH",
+						"BASIC"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 39,
+						"str": 19,
+						"spd": 4,
+						"int": 19,
+						"mry": 25,
+						"frt": 8,
+						"grc": 13,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "bone_kick",
+							"level": 1
+						},
+						{
+							"id": "burrow",
+							"level": 1
+						},
+						{
+							"id": "reflect",
+							"level": 1
+						},
+						{
+							"id": "grand_slap",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "bone_kick",
+							"level": 1
+						},
+						{
+							"id": "burrow",
+							"level": 1
+						},
+						{
+							"id": "reflect",
+							"level": 1
+						},
+						{
+							"id": "grand_slap",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 96,
+					"maxHp": 96,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_6_0_1",
+					"name": "Echo",
+					"speciesId": "bomdilo",
+					"types": [
+						"TECH"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 22,
+						"str": 47,
+						"spd": 23,
+						"int": 26,
+						"mry": 16,
+						"frt": 22,
+						"grc": 30,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "self_destruct",
+							"level": 1
+						},
+						{
+							"id": "owa_bot",
+							"level": 1
+						},
+						{
+							"id": "cyborgs_core",
+							"level": 1
+						},
+						{
+							"id": "bout",
+							"level": 1
+						},
+						{
+							"id": "dash",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "self_destruct",
+							"level": 1
+						},
+						{
+							"id": "owa_bot",
+							"level": 1
+						},
+						{
+							"id": "cyborgs_core",
+							"level": 1
+						},
+						{
+							"id": "bout",
+							"level": 1
+						},
+						{
+							"id": "dash",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 51,
+					"maxHp": 51,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_6_0_2",
+					"name": "Cleo",
+					"speciesId": "bomdilo",
+					"types": [
+						"GRASS"
+					],
+					"level": 4,
+					"xp": 96,
+					"gvs": {
+						"wgt": 22,
+						"str": 29,
+						"spd": 21,
+						"int": 39,
+						"mry": 18,
+						"frt": 46,
+						"grc": 0,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "entangle",
+							"level": 1
+						},
+						{
+							"id": "leech_seed",
+							"level": 1
+						},
+						{
+							"id": "growl",
+							"level": 1
+						},
+						{
+							"id": "healing_spores",
+							"level": 1
+						},
+						{
+							"id": "grass_fortify",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "entangle",
+							"level": 1
+						},
+						{
+							"id": "leech_seed",
+							"level": 1
+						},
+						{
+							"id": "growl",
+							"level": 1
+						},
+						{
+							"id": "healing_spores",
+							"level": 1
+						},
+						{
+							"id": "grass_fortify",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 62,
+					"maxHp": 62,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				},
+				{
+					"id": "tourn_mp_bot_egg-challenge-1_6_0_3",
+					"name": "Drift",
+					"speciesId": "grull",
+					"types": [
+						"TECH"
+					],
+					"level": 1,
+					"xp": 0,
+					"gvs": {
+						"wgt": 20,
+						"str": 28,
+						"spd": 16,
+						"int": 45,
+						"mry": 35,
+						"frt": 5,
+						"grc": 23,
+						"nst": 0
+					},
+					"evs": {
+						"wgt": 0,
+						"str": 0,
+						"spd": 0,
+						"int": 0,
+						"mry": 0,
+						"frt": 0,
+						"grc": 0,
+						"nst": 0
+					},
+					"deck": [
+						{
+							"id": "cold_snap",
+							"level": 1
+						},
+						{
+							"id": "nano_repair",
+							"level": 1
+						},
+						{
+							"id": "ice_shard",
+							"level": 1
+						},
+						{
+							"id": "shield",
+							"level": 1
+						}
+					],
+					"moveLibrary": [
+						{
+							"id": "cold_snap",
+							"level": 1
+						},
+						{
+							"id": "nano_repair",
+							"level": 1
+						},
+						{
+							"id": "ice_shard",
+							"level": 1
+						},
+						{
+							"id": "shield",
+							"level": 1
+						}
+					],
+					"maxDeckSlots": 8,
+					"currentHp": 86,
+					"maxHp": 86,
+					"manaRegenBonus": 0,
+					"crawlSpeedBonus": 0,
+					"happiness": 70,
+					"fatigue": 10,
+					"bond": 0,
+					"personality": null,
+					"weeklyFoodBuffs": [],
+					"weeklyFeedCount": 0,
+					"activity": null,
+					"createdAt": 1
+				}
+			]
+		}
+	],
+	"rounds": [
+		[
+			{
+				"matchId": "r0m0",
+				"round": 0,
+				"aPlayerId": "aefde22f-cda4-4a86-91d7-64f3f7b10530",
+				"bPlayerId": "bot:0",
+				"seed": 3810757130,
+				"score": {
+					"a": 0,
+					"b": 2
+				},
+				"games": [
+					{
+						"winner": "B",
+						"hpPctA": 0,
+						"hpPctB": 0.512396694214876,
+						"durationS": 43.02,
+						"benchSwaps": 0,
+						"koReplacements": 3,
+						"seed": 131244958
+					},
+					{
+						"winner": "B",
+						"hpPctA": 0,
+						"hpPctB": 0.22758620689655173,
+						"durationS": 41.02,
+						"benchSwaps": 0,
+						"koReplacements": 2,
+						"seed": 2338597798
+					}
+				],
+				"winnerPlayerId": "bot:0"
+			},
+			{
+				"matchId": "r0m1",
+				"round": 0,
+				"aPlayerId": "bot:1",
+				"bPlayerId": "bot:2",
+				"seed": 3789823959,
+				"score": {
+					"a": 1,
+					"b": 2
+				},
+				"games": [
+					{
+						"winner": "A",
+						"hpPctA": 0.1523809523809524,
+						"hpPctB": 0,
+						"durationS": 43.02,
+						"benchSwaps": 0,
+						"koReplacements": 4,
+						"seed": 2121095604
+					},
+					{
+						"winner": "B",
+						"hpPctA": 0,
+						"hpPctB": 0.1506849315068493,
+						"durationS": 44.02,
+						"benchSwaps": 0,
+						"koReplacements": 4,
+						"seed": 2413457713
+					},
+					{
+						"winner": "B",
+						"hpPctA": 0,
+						"hpPctB": 0.4,
+						"durationS": 44.02,
+						"benchSwaps": 0,
+						"koReplacements": 4,
+						"seed": 2834265294
+					}
+				],
+				"winnerPlayerId": "bot:2"
+			},
+			{
+				"matchId": "r0m2",
+				"round": 0,
+				"aPlayerId": "bot:3",
+				"bPlayerId": "bot:4",
+				"seed": 3669402086,
+				"score": {
+					"a": 2,
+					"b": 0
+				},
+				"games": [
+					{
+						"winner": "A",
+						"hpPctA": 0.7745664739884393,
+						"hpPctB": 0,
+						"durationS": 37.85,
+						"benchSwaps": 0,
+						"koReplacements": 3,
+						"seed": 1137398762
+					},
+					{
+						"winner": "A",
+						"hpPctA": 0.6121212121212121,
+						"hpPctB": 0,
+						"durationS": 44.02,
+						"benchSwaps": 0,
+						"koReplacements": 4,
+						"seed": 4026323326
+					}
+				],
+				"winnerPlayerId": "bot:3"
+			},
+			{
+				"matchId": "r0m3",
+				"round": 0,
+				"aPlayerId": "bot:5",
+				"bPlayerId": "bot:6",
+				"seed": 2044991486,
+				"score": {
+					"a": 0,
+					"b": 2
+				},
+				"games": [
+					{
+						"winner": "B",
+						"hpPctA": 0,
+						"hpPctB": 0.5663716814159292,
+						"durationS": 36.78,
+						"benchSwaps": 0,
+						"koReplacements": 3,
+						"seed": 3537687582
+					},
+					{
+						"winner": "B",
+						"hpPctA": 0,
+						"hpPctB": 0.1891891891891892,
+						"durationS": 43.02,
+						"benchSwaps": 0,
+						"koReplacements": 4,
+						"seed": 2993487315
+					}
+				],
+				"winnerPlayerId": "bot:6"
+			}
+		],
+		[
+			{
+				"matchId": "r1m0",
+				"round": 1,
+				"aPlayerId": "bot:0",
+				"bPlayerId": "bot:2",
+				"seed": 3635793620,
+				"score": {
+					"a": 2,
+					"b": 0
+				},
+				"games": [
+					{
+						"winner": "A",
+						"hpPctA": 0.7448275862068966,
+						"hpPctB": 0,
+						"durationS": 41.02,
+						"benchSwaps": 0,
+						"koReplacements": 4,
+						"seed": 1262850940
+					},
+					{
+						"winner": "A",
+						"hpPctA": 0.3724137931034483,
+						"hpPctB": 0,
+						"durationS": 43.02,
+						"benchSwaps": 0,
+						"koReplacements": 4,
+						"seed": 66746746
+					}
+				],
+				"winnerPlayerId": "bot:0"
+			},
+			{
+				"matchId": "r1m1",
+				"round": 1,
+				"aPlayerId": "bot:3",
+				"bPlayerId": "bot:6",
+				"seed": 984557627,
+				"score": {
+					"a": 2,
+					"b": 0
+				},
+				"games": [
+					{
+						"winner": "A",
+						"hpPctA": 0.2787878787878788,
+						"hpPctB": 0,
+						"durationS": 44.02,
+						"benchSwaps": 0,
+						"koReplacements": 4,
+						"seed": 2914680293
+					},
+					{
+						"winner": "A",
+						"hpPctA": 0.045454545454545456,
+						"hpPctB": 0,
+						"durationS": 44.02,
+						"benchSwaps": 0,
+						"koReplacements": 4,
+						"seed": 3261364034
+					}
+				],
+				"winnerPlayerId": "bot:3"
+			}
+		],
+		[
+			{
+				"matchId": "r2m0",
+				"round": 2,
+				"aPlayerId": "bot:0",
+				"bPlayerId": "bot:3",
+				"seed": 4034369925,
+				"score": {
+					"a": 1,
+					"b": 1
+				},
+				"games": [
+					{
+						"winner": "B",
+						"hpPctA": 0,
+						"hpPctB": 0.21153846153846154,
+						"durationS": 44.02,
+						"benchSwaps": 0,
+						"koReplacements": 4,
+						"seed": 677303481
+					},
+					{
+						"winner": "A",
+						"hpPctA": 0.052941176470588235,
+						"hpPctB": 0,
+						"durationS": 45.02,
+						"benchSwaps": 0,
+						"koReplacements": 4,
+						"seed": 2836246593
+					},
+					{
+						"winner": "draw",
+						"hpPctA": 0,
+						"hpPctB": 0,
+						"durationS": 44.02,
+						"benchSwaps": 0,
+						"koReplacements": 4,
+						"seed": 597844916
+					}
+				],
+				"winnerPlayerId": "bot:3"
+			}
+		]
+	],
+	"standings": [
+		{
+			"place": 1,
+			"playerId": "bot:3",
+			"playerName": "Ember (AI)",
+			"isBot": true
+		},
+		{
+			"place": 2,
+			"playerId": "bot:0",
+			"playerName": "Flux (AI)",
+			"isBot": true
+		},
+		{
+			"place": 3,
+			"playerId": "bot:2",
+			"playerName": "Gale (AI)",
+			"isBot": true
+		},
+		{
+			"place": 3,
+			"playerId": "bot:6",
+			"playerName": "Kite (AI)",
+			"isBot": true
+		},
+		{
+			"place": 5,
+			"playerId": "aefde22f-cda4-4a86-91d7-64f3f7b10530",
+			"playerName": "Meb1",
+			"isBot": false
+		},
+		{
+			"place": 5,
+			"playerId": "bot:1",
+			"playerName": "Mist (AI)",
+			"isBot": true
+		},
+		{
+			"place": 5,
+			"playerId": "bot:4",
+			"playerName": "Cipher (AI)",
+			"isBot": true
+		},
+		{
+			"place": 5,
+			"playerId": "bot:5",
+			"playerName": "Haze (AI)",
+			"isBot": true
+		}
+	],
+	"championPlayerId": "bot:3",
+	"rejected": [],
+	"generatedAtIso": "2026-07-16T09:23:34.421Z"
+}
