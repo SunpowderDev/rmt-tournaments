@@ -1,20 +1,5 @@
 [
 	{
-		"id": "first-test-cup",
-		"name": "First Test Cup",
-		"mpType": "TIER_TOURNAMENT",
-		"deadlineUtc": "2026-07-24T16:00:00Z",
-		"engineVersion": "mp-3",
-		"entryFeeCoins": 0,
-		"levelCap": 10,
-		"maxWeeks": null,
-		"maxRegistrationWeek": null,
-		"partySize": 4,
-		"eggRollSpec": null,
-		"status": "finished",
-		"description": "Beginner-tier showdown: submit any four monsters at level 10 or under before the deadline."
-	},
-	{
 		"id": "adawdaw",
 		"name": "awdadw",
 		"mpType": "TIER_TOURNAMENT",
