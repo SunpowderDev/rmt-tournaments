@@ -1,25 +1,5 @@
 [
 	{
-		"id": "egg-challenge-1",
-		"name": "Egg Challenge #1",
-		"mpType": "EGG_CHALLENGE",
-		"deadlineUtc": "2026-07-16T09:20:00.000Z",
-		"engineVersion": "mp-3",
-		"entryFeeCoins": 0,
-		"levelCap": null,
-		"maxWeeks": 12,
-		"maxRegistrationWeek": 5,
-		"partySize": 4,
-		"eggRollSpec": {
-			"count": 4,
-			"level": 1,
-			"distinctMonotypes": true
-		},
-		"status": "finished",
-		"minBracketSize": 8,
-		"description": "Four hatchlings, twelve weeks. Raise them your way — every player gets their own rolled hatchlings, no two sharing a type."
-	},
-	{
 		"id": "first-test-cup",
 		"name": "First Test Cup",
 		"mpType": "TIER_TOURNAMENT",
