@@ -1,1 +1,35 @@
-[]
+[
+	{
+		"id": "chengdu_test_tournament_1",
+		"name": "Chengdu Test Tournament  #1",
+		"mpType": "TIER_TOURNAMENT",
+		"deadlineUtc": "2026-08-02T12:00:00.000Z",
+		"registrationDeadlineUtc": "2026-07-30T12:00:00.000Z",
+		"engineVersion": "mp-14",
+		"entryFeeCoins": 69,
+		"levelCap": 10,
+		"maxWeeks": null,
+		"maxRegistrationWeek": null,
+		"partySize": 4,
+		"eggRollSpec": null,
+		"status": "open",
+		"minBracketSize": 8,
+		"prizes": {
+			"champion": {
+				"coins": 550,
+				"items": [
+					"alpha_pheromones"
+				]
+			},
+			"top2": {
+				"coins": 250,
+				"items": []
+			},
+			"top4": {
+				"coins": 100,
+				"items": []
+			}
+		},
+		"description": "Amazing tournament for great friends"
+	}
+]
